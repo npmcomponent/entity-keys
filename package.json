@@ -1,0 +1,16 @@
+{
+  "name": "entity-keys",
+  "description": "bind to a key map",
+  "version": "2.0.0",
+  "keywords": [
+    "keyboard",
+    "keys",
+    "event"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "yields-prevent": "git://github.com/npmcomponent/yields-prevent.git",
+    "yields-stop": "git://github.com/npmcomponent/yields-stop.git"
+  },
+  "license": "MIT"
+}

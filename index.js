@@ -13,9 +13,9 @@
  * Module dependencies.
  */
 
-var emitter = require('emitter');
-var prevent = require('prevent');
-var stop = require('stop');
+var emitter = require('component-emitter');
+var prevent = require('yields-prevent');
+var stop = require('yields-stop');
 
 /**
  * Creates key `map` handler.
